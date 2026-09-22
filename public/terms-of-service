@@ -1,0 +1,243 @@
+{
+  "heading": "Terms of Service",
+  "description": "These Terms of Service govern your use of Brooks Home Inspection LLC’s reliable home inspection services. By accessing our website or engaging our inspections, you agree to comply with the following provisions.",
+  "content": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Acceptance of Terms"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "By visiting the Brooks Home Inspection website or scheduling an inspection, you accept all conditions outlined in these Terms. The agreement is effective from the moment you click \"Accept\" or use our services. You acknowledge that these Terms are binding and may be amended at any time."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Services Provided"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Brooks Home Inspection LLC offers comprehensive residential and commercial property inspections. Our certified home inspector provides detailed reports that help buyers, sellers, and landlords make informed decisions. We conduct pre‑purchase, pre‑listing, and construction inspections across Kentucky, with a primary focus on the Stanley, Kentucky area."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Inspection Types"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Pre‑purchase home inspection"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Pre‑listing inspection"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Residential inspection"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Construction inspection"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Real estate inspection"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "User Obligations"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "You must provide accurate, timely information about the property and any known issues. The client is responsible for granting access to the entire property during the scheduled inspection. You agree to pay the agreed fee promptly and in full."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Disclaimers"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "While we strive for thoroughness, the inspection does not cover hidden structural defects or future repairs. Our reports reflect the condition at the time of inspection and are not warranties. You acknowledge that the inspection is a snapshot of the property’s current state."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Limitation of Liability"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Brooks Home Inspection LLC is not liable for indirect, incidental, or consequential damages arising from the use of our reports. The maximum liability for any claim is limited to the inspection fee paid. We shall not be held responsible for errors in third‑party information or market fluctuations."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Changes to Terms"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "We reserve the right to modify these Terms at any time. Any changes will be posted on this page with an updated effective date. Your continued use of our services constitutes acceptance of the revised Terms."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Contact Information"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "For questions about these Terms or to discuss a potential inspection, contact Brooks Home Inspection LLC at (123) 456‑7890 or email info@brookshomeinspection.com. Our office is located in the heart of Stanley, Kentucky, and we welcome inquiries from residents and business owners throughout the region."
+          }
+        ]
+      }
+    ]
+  }
+}
